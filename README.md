@@ -1,1 +1,1 @@
-# GAN_MODEL_-Drug-design
+# GAN_MODEL_Drug-design
